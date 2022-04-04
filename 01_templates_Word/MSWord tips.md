@@ -14,7 +14,7 @@ Download the templates from [here]()
 ## how to use the template and [[MSWord|MS Word]]
 ### setup the template 
 - The template makes use of `fields`, which allows you to just add information to the document through `Home` > `Info` such as: `author`, `title`, and `tags` (keywords); see below:
-	- [[./.00images/guide_pg2a.png]]
+	- ![[./.00images/guide_pg2a.png]]
 ### apply Styles
 - use the Styles (`Home > Styles`) in your document: 
 	- **Normal** for body text
