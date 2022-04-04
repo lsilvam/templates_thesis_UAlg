@@ -1,13 +1,13 @@
 
 # MS Word cheat sheet: thesis template UAlg
-This is a guide on how to use [[MSWord|MS Word]] to write a thesis (following a template for [[UniversidadeAlgarve|UAlg]])
+This is a guide on how to use MSWord to write a thesis (following a template for Universidade do Algarve)
 
 keys: ⭐ what I use | 👉 what I recommend | ☝ call for attention
 
 **template download**
-Download the templates from [here](https://github.com/lsilvam/templates_thesis/tree/master/01_templates_Word) 
+Download the templates from [here](https://github.com/lsilvam/templates_thesis_UAlg/releases) 
  
-## how to use the template and [[MSWord|MS Word]]
+## how to use the template and MSWord
 ### setup the template 
 - The template makes use of `fields`, which allows you to just add information to the document through `Home` > `Info` such as: `author`, `title`, and `tags` (keywords); see below:
 	- ![Figure-1](/00images/guide_pg2a.png)
