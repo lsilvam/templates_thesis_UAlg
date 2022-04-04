@@ -11,6 +11,7 @@ Download the templates from [here](https://github.com/lsilvam/templates_thesis/t
 ### setup the template 
 - The template makes use of `fields`, which allows you to just add information to the document through `Home` > `Info` such as: `author`, `title`, and `tags` (keywords); see below:
 	- ![Figure-1](/00images/guide_pg2a.png)
+
 ### apply Styles
 - use the Styles (`Home > Styles`) in your document: 
 	- **Normal** for body text
