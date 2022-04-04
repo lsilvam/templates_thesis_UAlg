@@ -24,12 +24,12 @@ Download the templates from [here](https://github.com/lsilvam/templates_thesis/t
 ### best way to deal with:
 - **Abbreviations** can be easily made by creating a table, and place the content as you go. When you finish just sort and change the table line to white
 - **Tables** preferentially use academic styled tables
-	- **caption above**
+	- **caption is above**
 	- thick horizontal lines in the header and line at the bottom, see the example:
 		- ![Figure-3](/00images/WINWORD_rZRxcZi1vS.png)
 	- ❌ don't use tables as images
 - **Figures** Treat them as `inline with text`, this allows the images to flow with text, thus avoiding frustration of images not being in the correct (or expected) place; see below:
-	- **caption below**
+	- **caption is below**
 	- ![Figure-4](/00images/guide_pg2b.png)
 ### keep attention to
 - **Page and section breaks**
@@ -38,7 +38,7 @@ Download the templates from [here](https://github.com/lsilvam/templates_thesis/t
 		- ![Figure-5](/00images/slice_pg3.png)
 	- to see where the page breaks are go to `Home > Paragraph > Show all` 
 		- ![Figure-6](/00images/WINWORD_GQ2LRNfuQi.png)
-## [[troubleshooting]]:
+## troubleshooting:
 - faulty fields, strange characters, etc...: select, and press Alt+F9
 	- e.g. this is when some caption are not well numbered and and error occurs
 - [[EndNote]] not placing citations: disable tracking changes
