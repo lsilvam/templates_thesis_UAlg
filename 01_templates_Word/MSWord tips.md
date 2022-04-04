@@ -20,7 +20,7 @@ Download the templates from [here](https://github.com/lsilvam/templates_thesis/t
 	- **Caption**
 	- ☝ avoid changing the font (or any other formatting) by selecting a portion of the text: these changes will not be propagated throughout the document; unless you need to do so
 	- These are the styles:
-		- ![Figure-2](/00images/Pasted image 20210816202859.png)
+		- ![Figure-2](/00images/Pasted_image_20210816202859.png)
 ### best way to deal with:
 - **Abbreviations** can be easily made by creating a table, and place the content as you go. When you finish just sort and change the table line to white
 - **Tables** preferentially use academic styled tables
