@@ -33,14 +33,14 @@ Download the templates from [here](https://github.com/lsilvam/templates_thesis/t
 	- ![Figure-4](/00images/guide_pg2b.png)
 ### keep attention to
 - **Page and section breaks**
-	- page breaks are good to break pages
-	- section breaks keeps allows different header and footer layouts (which includes the page numbering)
+	- page breaks do not create a blank page between the break
+	- section breaks allows different header and footer layouts (which includes the page numbering)
 		- ![Figure-5](/00images/slice_pg3.png)
 	- to see where the page breaks are go to `Home > Paragraph > Show all` 
 		- ![Figure-6](/00images/WINWORD_GQ2LRNfuQi.png)
 ## troubleshooting:
 - faulty fields, strange characters, etc...: select, and press Alt+F9
-	- e.g. this is when some caption are not well numbered and and error occurs
+	- e.g. this is when some captions are not well numbered and  error occurs
 - [[EndNote]] not placing citations: disable tracking changes
 	- `Review > Changes > Accept all change and stop tracking`
 		- if you agree with the change of course
