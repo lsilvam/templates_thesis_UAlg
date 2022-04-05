@@ -10,4 +10,4 @@ Enjoy.
 [MSWord tips](/01_templates_Word/MSWord_tips.md)
 
 DISCLAIMER:
-Images and logos in this repository are property of their respective owners. Use of them is only for identification purposes.
+Images and logos in this repository are property of their respective owners. Use of them is only for identification and exemplification purposes.
